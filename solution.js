@@ -10,5 +10,5 @@ console.log(thirdElement)
 
 //3
 
-myArray[3] = 'fourt element';
+myArray[3] = 'fourth element';
 console.log(myArray);
